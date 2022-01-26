@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\Workspace\\.git;C\:\\Workspace\\demo-dao-jdbc\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;demo-dao-jdbc\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
